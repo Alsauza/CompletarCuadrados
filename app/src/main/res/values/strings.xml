@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Completar Cuadrados</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="segundo_fragment">En este fragmento va la explicción</string>
+    <string name="tercer_fragment">En este fragmento van los ejercicios</string>
+
+    <string name="buttonExplicacion">Explicación del método</string>
+    <string name="buttonEjercicios">Ejercicios</string>
+    <string name="encabezado">MÉTODO DE COMPLETAR CUADRADOS</string>
+    <string name="segundoEncabezado"> PARA ECUACIONES DE LA FORMA:</string>
+    <string name="tercerEncabezado"> ecuación</string>
+</resources>
